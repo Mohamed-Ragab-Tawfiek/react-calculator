@@ -1,0 +1,17 @@
+footer {
+  background: #333;
+}
+footer ul li {
+  color: #555;
+  font-size: 80%;
+  color: white;
+}
+footer ul b{
+  color: #aaa;
+}
+footer li a {
+  color: white;
+}
+footer small{
+    color: white;
+}

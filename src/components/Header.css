@@ -1,0 +1,7 @@
+.row nav{
+  width: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  background: rgb(36, 122, 129);
+}
